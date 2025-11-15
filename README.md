@@ -99,7 +99,7 @@ pnpm dev
 
 Callback URL:
 ```
-http://localhost:3000/api/auth/callback
+https://session-control-75by.vercel.app/api/auth/callback
 ```
 
 
